@@ -1,0 +1,6 @@
+pyodbc
+pandas
+openai
+python-dotenv
+tabulate
+matplotlib
